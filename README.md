@@ -28,6 +28,6 @@ UserSubscription
 
 ##### Execution
 
-> python manage.py --settings=config.settings.local
+> python manage.py runserver --settings=config.settings.local
 
 > docker compose up --build
